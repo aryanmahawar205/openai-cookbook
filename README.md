@@ -23,7 +23,7 @@ Before contributing, read through the existing issues and pull requests to see i
 
 If there are examples or guides you'd like to see, feel free to suggest them on the [issues page](https://github.com/openai/openai-cookbook/issues).
 
-If you'd like to contribute new content, make sure to read through our [contribution guidelines](/CONTRIBUTING.md). We welcome high-quality submissions of new examples and guides, as long as they meet our criteria and fit within the scope of the cookbook
+If you'd like to contribute new content, make sure to read through our [contribution guidelines](/CONTRIBUTING.md). We welcome high-quality submissions of new examples and guides, as long as they meet our criteria and fit within the scope of the cookbook.
 
 The contents of this repo are automatically rendered into [cookbook.openai.com](https://cookbook.openai.com) based on [registry.yaml](/registry.yaml).
 
